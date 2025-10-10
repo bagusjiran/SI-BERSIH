@@ -7,5 +7,8 @@ def landingpage(request):
 def adminpage(request):
     return render(request, 'administrator/index.html')
 
+def registerpage(request):
+    return render(request, 'administrator/register.html')
+
 
 # Create your views here.
