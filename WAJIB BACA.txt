@@ -1,0 +1,22 @@
+WAJIB BACA UNTUK TIM 
+
+ALUR MELAKUKAN PERUBAHAN PADA PROYEK HINGGA DI-PUSH :
+
+- git remote -v (ini berfungsi untuk mengecek apakah kita berada di repo yang benar atau tidak)
+- git branch (ini berfungsi untuk mengecek kita sedang di branch apa)
+
+- buat branch baru untuk diri sendiri di web github (jika belum punya branch pribadi)
+- setelah membuat branch baru, ketik di terminal Git Bash VSCode : git fetch origin ,, lalu cek ulang branch nya dengan mengetik : git branch
+
+- untuk pindah ke branch lainnya, ketik : git checkout "nama-branch" (tanpa tanda petik)
+
+
+UNTUK MULAI MELAKUKAN PERUBAHAN
+- git checkout main
+- git pull origin main
+- git checkout "nama-branchmu"
+- (mulai melakukan perubahan pada kode)
+- lalu commit dan push ke branchmu terlebih dahulu
+- jika dirasa sudah cukup baik dan logis, lakukan merge request dengan membuka web github lalu klik "Compare & pull request"
+- bisa dibicarakan kepada tim untuk koreksi dan akhirnya dapat di merge dengan benar 
+ 
