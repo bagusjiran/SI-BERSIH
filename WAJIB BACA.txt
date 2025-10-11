@@ -6,7 +6,7 @@ ALUR MELAKUKAN PERUBAHAN PADA PROYEK HINGGA DI-PUSH :
 - git branch (ini berfungsi untuk mengecek kita sedang di branch apa)
 
 - buat branch baru untuk diri sendiri di web github (jika belum punya branch pribadi)
-- setelah membuat branch baru, ketik di terminal Git Bash VSCode : git fetch origin ,, lalu cek ulang branch nya dengan mengetik : git branch
+- setelah membuat branch baru, ketik di terminal Git Bash VSCode : git fetch ,, lalu cek ulang branch nya dengan mengetik : git branch
 
 - untuk pindah ke branch lainnya, ketik : git checkout "nama-branch" (tanpa tanda petik)
 
