@@ -5,7 +5,7 @@
 
 ## SIBERSIH
 
-adalah sebuah aplikasi dan web sistem informasi sederhana yang menggunakan framework django
+adalah sebuah aplikasi dan web sistem informasi sederhana yang menggunakan framework django,
 project ini dikerjakan untuk melengkapi tugas perkuliahan kami, dirancang untuk efisiensi,
 mudah digunakan serta mudah untuk dipelihara.
 
