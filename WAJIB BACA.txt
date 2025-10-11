@@ -15,6 +15,7 @@ UNTUK MULAI MELAKUKAN PERUBAHAN
 - git checkout main
 - git pull origin main
 - git checkout "nama-branchmu"
+- git pull origin main
 - (mulai melakukan perubahan pada kode)
 - lalu commit dan push ke branchmu terlebih dahulu
 - jika dirasa sudah cukup baik dan logis, lakukan merge request dengan membuka web github lalu klik "Compare & pull request"
